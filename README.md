@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I´m currently learning HTML, CSS and Java Script
+I´m currently learning VueJS
 
 <!--
 **tomhandschuch/tomhandschuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
